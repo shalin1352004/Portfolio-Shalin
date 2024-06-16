@@ -1,4 +1,4 @@
-/* overall setting*/
+/* GENERAL */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
@@ -438,4 +438,11 @@ footer {
 
 footer p {
   text-align: center;
+}
+.location{
+  height: 1rem;
+  width: 1rem;
+}
+.dark{
+  color: black;
 }
