@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(244, 236, 217);
+  background-color: rgb(230, 221, 199);
 }
 
 html {
@@ -39,7 +39,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
-  background-color: rgb(159, 236, 236);
+  background-color:rgb(102, 222, 255)
 }
 
 .nav-links {
@@ -52,9 +52,11 @@ a {
   color: black;
   text-decoration: none;
   text-decoration-color: white;
+  
 }
 
 a:hover {
+
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
@@ -64,6 +66,8 @@ a:hover {
 .logo {
   font-size: 2.5rem;
   font-weight: 600;
+  color: black;
+  
 }
 
 .logo:hover {
@@ -289,9 +293,7 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
-  width: 450px;
-  height: 25rem; /*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
+  border-radius: 2rem;/*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
 }
 
 .arrow {
@@ -303,7 +305,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background: rgba(255, 255, 255, 0.125);
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
