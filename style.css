@@ -39,7 +39,10 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
-  background-color:rgb(102, 222, 255)
+  background-color:rgb(102, 222, 255);
+  background-image: url(./assets/background1.png);
+
+
 }
 
 .nav-links {
