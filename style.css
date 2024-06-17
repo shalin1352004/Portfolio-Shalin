@@ -449,5 +449,5 @@ footer p {
   width: 1rem;
 }
 .dark{
-  color: black;
+  font-weight: 500;
 }
