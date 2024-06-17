@@ -38,7 +38,7 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 13vh;
   /*background-color:rgb(102, 222, 255);*/
   background-image: url(./assets/background1.png);
   background: image height 17vh;
