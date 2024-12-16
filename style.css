@@ -15,7 +15,9 @@ body {
 html {
   scroll-behavior: smooth;
 }
-
+.color{
+  color:purple
+}
 p {
   color: rgb(85, 85, 85);
   font-weight: 700;
