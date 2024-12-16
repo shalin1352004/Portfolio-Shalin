@@ -15,7 +15,7 @@ body {
 html {
   scroll-behavior: smooth;
 }
-.color{
+a.color{
   color:purple
 }
 p {
