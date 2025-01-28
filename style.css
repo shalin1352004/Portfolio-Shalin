@@ -78,7 +78,7 @@ a:hover {
 .cartoon {
     width: 100px; /* Adjust size as needed */
     height: 100px;
-    background-image: url("your_cartoon_image.png"); /* Path to your image */
+    background-image: url("doodle.jpg"); /* Path to your image */
     background-size: cover;
     position: relative; /* Important for positioning the animation */
     animation: moveRight 5s linear infinite; /* Animation name, duration, timing, repeat */
