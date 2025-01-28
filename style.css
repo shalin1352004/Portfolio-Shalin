@@ -75,6 +75,20 @@ a:hover {
 .logo:hover {
   cursor: default;
 }
+.cartoon {
+    width: 100px; /* Adjust size as needed */
+    height: 100px;
+    background-image: url("your_cartoon_image.png"); /* Path to your image */
+    background-size: cover;
+    position: relative; /* Important for positioning the animation */
+    animation: moveRight 5s linear infinite; /* Animation name, duration, timing, repeat */
+  }
+
+  @keyframes moveRight {
+    0% { left: 0; }
+    50% { left: 200px; } /* Move 200px to the right */
+    100% { left: 0; } /* Back to the starting position */
+  }
 
 /* HAMBURGER MENU */
 
