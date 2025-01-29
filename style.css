@@ -301,7 +301,7 @@ section {
 
 .about-pic {
   border-radius: 1rem;
-  transition: transform 2s ease-in-out;
+  transition: transform 1s ease-in-out;
   /*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
 }
 .about-pic:hover{
