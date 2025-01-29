@@ -300,12 +300,12 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  border-radius: 1rem;
   transition: transform 0.5s ease-in-out;
   /*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
 }
 .about-pic:hover{
-  transform: scale(0.8);
+  transform: scale(0.5);
 }
 .arrow {
   position: absolute;
