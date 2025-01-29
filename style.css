@@ -114,9 +114,7 @@ a:hover {
   transition: all 0.3 ease-in-out;
   
 }
-img:hover{
-  transform: scale(1.2);
-}
+
 
 .menu-links a {
   display: block;
@@ -302,9 +300,13 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;/*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
+  border-radius: 2rem;
+  transition: transform 0.5s ease-in-out;
+  /*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
 }
-
+.about-pic:hover{
+  transform: scale(1.2);
+}
 .arrow {
   position: absolute;
   right: -5rem;
