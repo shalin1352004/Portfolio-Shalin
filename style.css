@@ -114,6 +114,9 @@ a:hover {
   transition: all 0.3 ease-in-out;
   
 }
+img:hover{
+  transform: scale(1.2);
+}
 
 .menu-links a {
   display: block;
@@ -383,6 +386,7 @@ article .icon {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
+
 }
 
 .project-title {
