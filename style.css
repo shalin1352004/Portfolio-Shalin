@@ -305,7 +305,7 @@ section {
   /*photo ma tab na aave phone ma aena mate height and width remove kri devana*/
 }
 .about-pic:hover{
-  transform: scale(1.2);
+  transform: scale(0.8);
 }
 .arrow {
   position: absolute;
